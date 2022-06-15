@@ -1,0 +1,39 @@
+/* body {
+  background: orange;
+} */
+
+.container {
+  width: 800px;
+  background-color: #ddd;
+  margin: 40px auto;
+}
+
+.item {
+  padding: 30px;
+  font-size: 30px;
+  color: #fff;
+}
+
+.item-1 {
+  background-color: orangered;
+}
+
+.item-2 {
+  background-color: olivedrab;
+}
+
+.item-3 {
+  background-color: royalblue;
+}
+
+.item-4 {
+  background-color: palevioletred;
+}
+
+.item-5 {
+  background-color: goldenrod;
+}
+
+.item-6 {
+  background-color: blueviolet;
+}
